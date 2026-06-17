@@ -1,0 +1,3 @@
+php_value auto_prepend_file "/opt/lampp/htdocs/imagenm/mysql_shim.php"
+
+php_flag short_open_tag On

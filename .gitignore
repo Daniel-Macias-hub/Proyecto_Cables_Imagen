@@ -1,0 +1,6 @@
+*.bak
+*.tmp
+*.log
+/audios/*
+!/audios/.gitkeep
+/test_env/
