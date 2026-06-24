@@ -59,7 +59,7 @@ if(!isset($_SESSION['server'])) {
 
 <a class=n target=navi href=tnmenu.php> Turbina</a>
 <img src="img/blank.gif" width=20 height=4>
-<a class=n target=new href=http://10.29.120.50:8181>K4</a>
+<a class=n target=new href=http://10.29.120.16:8181/K4Overview/>K4</a>
 <img src="img/blank.gif" width=20 height=4>
 <a class=n target=navi href=foto.php>Fotos</a>
 <img src="img/blank.gif" width=1 height=1>

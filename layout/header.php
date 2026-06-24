@@ -689,7 +689,7 @@
                             </a></li>
                             -->
                             <!-- K4 -->
-                            <li><a data-active="false" href="http://10.29.120.50:8181" target="_blank">
+                            <li><a data-active="false" href="http://10.29.120.16:8181/K4Overview/" target="_blank">
                                 <span class="nav-inner">K4</span>
                             </a></li>
                             <!-- Fotos -->
