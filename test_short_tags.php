@@ -1,0 +1,3 @@
+<?
+echo "SHORT_TAGS_ARE_WORKING";
+?>

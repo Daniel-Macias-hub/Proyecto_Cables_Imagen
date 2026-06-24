@@ -1,5 +1,5 @@
 
-<?php include("langsettings.php"); ?>
+<? include("langsettings.php"); ?>
 <html>
 <head>
 <!--  Creado por miguel mendoza     -->
@@ -11,14 +11,13 @@
 
 
 
-<?php
-	global $TEXT;
-	if(!mysql_connect("localhost","root","d1nosauri0Z"))
+<?
+	if(!mysql_connect("mysql","root","root"))
 	{
-		echo "<h2>".($TEXT['cds-error'] ?? "Database Error")."</h2>";
+		echo "<h2>".$TEXT['cds-error']."</h2>";
 		die();
 	}
-	mysql_select_db("cdcol");
+	mysql_select_db("cables_db");
 ?>
 
 
